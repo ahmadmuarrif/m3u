@@ -129,3 +129,6 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Local",TVRI DKI Jakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1,ANTV http://id2.indostreamingtv.com/live/antv/index.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
