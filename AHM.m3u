@@ -3,6 +3,33 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="BUKALAPAK",AHMAD MUARRIF
 http://127.0.0.1/
 
+#EXTINF:1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", DMI CHANNEL
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/900px-Euronews._2016_alternative_logo.png" group-title="Indonesia", Euro News
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mrQiXBm.jpg" group-title="Indonesia", FIRST MOVIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", GTV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/k6gTiHm.png" group-title="Indonesia", GLOBAL TV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", IDKU TV
+https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/100px-TVRILogo2006.svg.png" group-title="LOKAL", TVRI SPORT HD
 http://210.210.155.35/qwr9ew/s/s107/01.m3u8
  
