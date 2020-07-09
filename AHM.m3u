@@ -1,27 +1,15 @@
 #EXTM3U
 
-
- 
-#EXTINF:0,SCTV
-#EXTVLCOPT:network-caching=1000
-http://rr2.dens.tv/s/s103/01.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="BUKALAPAK",AHMAD MUARRIF
+http://127.0.0.1/
  
 #EXTINF:0,INDOSIAR
 #EXTVLCOPT:network-caching=1000
 http://rr2.dens.tv/s/s04/01.m3u8
  
-#EXTINF:0,ANTV
-#EXTVLCOPT:network-caching=1000
-http://rr2.dens.tv/s/s102/01.m3u8
- 
 #EXTINF:0,KOMPAS TV
 #EXTVLCOPT:network-caching=1000
 http://rr2.dens.tv/s/s104/01.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TRANS TV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
@@ -34,9 +22,6 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_slen
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" tvg-country="ID" tvg-url="" group-title="LOKAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="BUKALAPAK",AHMAD MUARRIF
-http://127.0.0.1/
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="LOKAL",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
