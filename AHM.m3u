@@ -1,13 +1,20 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040405.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" tvg-country="ID" tvg-url="" group-title="LOKAL",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="BUKALAPAK",AHMAD MUARRIF
 http://127.0.0.1/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="LOKAL",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
@@ -21,9 +28,6 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62
 #EXTINF:-1 tvg-id="6481ae2680f7ea45c5a379af51eefd44"  group-title="HIBURAN",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="HIBURAN",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HIBURAN",Cartoon Network
 http://188.35.9.11:21151/udp/185f
 
@@ -33,23 +37,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b42
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HIBURAN",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="HIBURAN",Dangdutz
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.firstmediapromo.com/wp-content/uploads/2015/04/channel-Karaoke-30.jpg" group-title="HIBURAN",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.decalsplanet.com/img_b/vinyl-decal-sticker-155.jpg" group-title="HIBURAN",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="HIBURAN",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
-
-#EXTINF:-1 tvg-logo="https://www.torneodj.net/wp-content/uploads/2019/07/musictop_poster.png" group-title="HIBURAN",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="HIBURAN",National Geographic (Backup)
-http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="HIBURAN",National Geographic WILD (Backup)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
@@ -65,12 +54,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="HIBURAN",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="RELIGI", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -106,20 +89,11 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040378.png" tvg-country="ID" tvg-url="" group-title="RELIGI",HIDUP TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" tvg-country="ID" tvg-url="" group-title="LOKAL",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-country="ID" tvg-url="" group-title="RELIGI",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" tvg-country="ID" tvg-url="" group-title="LOKAL",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TRANS TV HD
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040405.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" tvg-country="ID" tvg-url="" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
