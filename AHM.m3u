@@ -2,26 +2,34 @@
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="BUKALAPAK",AHMAD MUARRIF
 http://127.0.0.1/
-
-
-#EXTINF:0,GLOBAL TV+
-#EXTVLCOPT:network-caching=1000
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
  
-#EXTINF:0,RCTI+
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1,Tvone online
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/100px-TVRILogo2006.svg.png" group-title="Indonesia TV", TVRI SPORT HD
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1,TVRI HD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="Indonesia TV", TVONE HD
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxmR2TZz/daaitv.png" group-title="LOCAL", DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="INDO",NET TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="INDO",RTV
+http://210.210.155.35/session/2ae09192-fa18-11e9-a0e0-b82a72d63267/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
  
-#EXTINF:0,MNC+
-#EXTVLCOPT:network-caching=1000
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
- 
-#EXTINF:0,INEWS+
-#EXTVLCOPT:network-caching=1000
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
- 
-#EXTINF:-1,NetTV
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL", REFORMED 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
 
 
