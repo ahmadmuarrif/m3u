@@ -3,48 +3,14 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="BUKALAPAK",AHMAD MUARRIF
 http://127.0.0.1/
  
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fb/MNCNews_tegak.png/1200px-MNCNews_tegak.png" group-title="Indonesia", MNCTV +
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", METRO TV 2
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w705347674_b232000_sleng.m3u8
- 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="Indonesia", NET TV
 https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/C4oK4fG.png" group-title="Indonesia", OSHOP TV
-http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/73DLMtq.png" group-title="Indonesia", POP MUSIK
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/St4At9S.png" group-title="Indonesia", RUMAH TV
-https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WmPl3aD.png" group-title="Indonesia", RCTI INDONESIA
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WmPl3aD.png" group-title="Indonesia", RCTI PLUS
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
  
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", RTV
 https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
  
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BVAmi7y.png" group-title="Indonesia", RRI NET LIVE
 http://36.89.47.217:11935/rrinet/live/chunklist_w20108144.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", RUANG TERAMPIL
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LFVtT5G.png" group-title="Indonesia", SCTV
-https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZJqAwJj.png" group-title="Indonesia", TV 9 NUSANTARA
-https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_98800_eng=5.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", TV MUHAMMADIYAH
-https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_98800_eng=4.m3u8
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="LOKAL", JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
