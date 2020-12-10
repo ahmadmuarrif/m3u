@@ -140,20 +140,3 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 
 #EXTINF:-1 group-title="LUAR", FIJI TV
 https://api.new.livestream.com/accounts/19514369/events/fijiTVstream/live.m3u8
-
-
-
-#EXTINF:-1,Nat Geo Wild (Eng/Rus) 
-http://95.188.124.200:1234/udp/233.7.70.223:5000
-
-#EXTINF:-1,Animal Planet (Eng/Rus) 
-http://95.188.124.200:1234/udp/233.7.70.30:5000
-
-#EXTINF:-1,Discovery Channel (Eng/Rus) 
-http://5.128.90.97:1234/udp/239.1.5.1:1234
-
-#EXTINF:-1,Baby TV 
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8
-
-#EXTINF:-1,Cartoon Network (Eng/Rus) 
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8
