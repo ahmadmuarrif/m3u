@@ -9,19 +9,19 @@ http://localhost/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243750264282042368/tpSNcavK_400x400.jpg" group-title="AHMAD MUARRIF",TIDAK UNTUK KOMERSIL
 http://127.0.0.1:80/
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV
+#EXTINF:-1 group-title="LOKAL", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w329259313_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/100px-TVRILogo2006.svg.png" group-title="LOKAL", TVRI SPORT
+#EXTINF:-1 group-title="LOKAL", TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/01.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="LOKAL", TVONE
+#EXTINF:-1 group-title="LOKAL", TVONE
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
  
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LOKAL", RTV
+#EXTINF:-1 group-title="LOKAL", RTV
 https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
 
-#EXTINF:0,group-title="LOKAL", INDOSIAR
+#EXTINF:0, group-title="LOKAL", INDOSIAR
 #EXTVLCOPT:network-caching=1000
 http://rr2.dens.tv/s/s04/01.m3u8
  
@@ -29,80 +29,80 @@ http://rr2.dens.tv/s/s04/01.m3u8
 #EXTVLCOPT:network-caching=1000
 http://rr2.dens.tv/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BVAmi7y.png" group-title="LOKAL", RRI NET
+#EXTINF:-1 group-title="LOKAL", RRI NET
 http://36.89.47.217:11935/rrinet/live/chunklist_w20108144.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="LOKAL", JAKARTA GLOBE
+#EXTINF:-1 group-title="LOKAL", JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HIBURAN",CARTOON NETWORK
+#EXTINF:-1 group-title="HIBURAN",CARTOON NETWORK
 http://188.35.9.11:21151/udp/185f
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HIBURAN",KARAOKE CHANNEL
+#EXTINF:-1 group-title="HIBURAN",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT", SPORTSMAX
+#EXTINF:-1 group-title="SPORT", SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORT",REAL MADRID TV
+#EXTINF:-1 group-title="SPORT",REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="HIBURAN",REDBULL TV
+#EXTINF:-1 group-title="HIBURAN",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" tvg-country="ID" tvg-url="" group-title="RELIGI",ADI TV
+#EXTINF:-1 group-title="RELIGI",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png"  group-title="LOKAL",BERITA SATU
+#EXTINF:-1 group-title="LOKAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="LOKAL",CHANNEL NEWS ASIA
+#EXTINF:-1 group-title="LOKAL",CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="LOKAL",CNBC
+#EXTINF:-1 group-title="LOKAL",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png"  group-title="LOKAL",CNN INDONESIA
+#EXTINF:-1 group-title="LOKAL",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040378.png"  group-title="RELIGI",HIDUP TV
+#EXTINF:-1 group-title="RELIGI",HIDUP TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="LOKAL",TVKU
+#EXTINF:-1 group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="LOKAL",TVRI DKI JAKARTA
+#EXTINF:-1 group-title="LOKAL",TVRI DKI JAKARTA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="SPORT",ALL SPORTS
+#EXTINF:0 group-title="SPORT",ALL SPORTS
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="LUAR",CNA HD
+#EXTINF:0 group-title="LUAR",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="LOKAL", CTV BANTEN
+#EXTINF:0 group-title="LOKAL", CTV BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="Undefined",ID | TVRI,TVRI
+#EXTINF:0 group-title="LOKAL",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/VH7TANA.png" group-title="Undefined",ID | TVRI Jakarta,TVRI JAKARTA
+#EXTINF:0  group-title="LOKAL",TVRI JAKARTA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="Undefined",ID | TVRI Jawa Barat,TVRI JAWA BARAT
+#EXTINF:0 group-title="LOKAL", TVRI JAWA BARAT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="Undefined",JTV
+#EXTINF:0 group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" group-title="lokal",TRANS 7
+#EXTINF:0 group-title="LOKAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040405.png" group-title="LOKAL",TRANS TV
+#EXTINF:0 group-title="LOKAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="LUAR",TV IKIM
+#EXTINF:0 group-title="LUAR",TV IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, group-title="LUAR",ONE
@@ -123,274 +123,21 @@ http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1, group-title="LUAR",AXN
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/IDLUf7r.png" group-title="LUAR",BOLLYWOOD CLASIC
+#EXTINF:-1 group-title="LUAR",BOLLYWOOD CLASIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/4O7CPFq.png" group-title="LUAR",BOLLYWOOD TV
+#EXTINF:-1 group-title="LUAR",BOLLYWOOD TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png"  group-title="LUAR",CCTV 6
+#EXTINF:-1 group-title="LUAR",CCTV 6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="LUAR", SYRIA DRAMA
+#EXTINF:-1 group-title="LUAR", SYRIA DRAMA
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="LUAR",TV CINEC (PORTUGAL)
+#EXTINF:-1 group-title="LUAR",TV CINEC (PORTUGAL)
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fijione.TV/wp-content/uploads/2019/02/index-5-300x161.jpg" group-title="LUAR", FIJI TV
+#EXTINF:-1 group-title="LUAR", FIJI TV
 https://api.new.livestream.com/accounts/19514369/events/fijiTVstream/live.m3u8
-
-################
-
-
-#EXTM3U
-#EXTINF:-1,MITV
-http://183.88.212.205:8010/play/a016
-#EXTINF:-1,ASIAN MOVIES
-http://183.88.212.205:8010/play/a01j
-#EXTINF:-1,SUN TV
-http://183.88.212.205:8010/play/a00o
-#EXTINF:-1,EDGE SPORTS
-http://183.88.212.205:8010/play/a03i
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.88.212.205:8010/play/a00t
-#EXTINF:-1,FYI,
-http://183.88.212.205:8010/play/a00k
-#EXTINF:-1,CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b
-#EXTINF:-1,STAR CHINESE MOVIES
-http://183.88.212.205:8010/play/a02e
-#EXTINF:-1,WORLD DRAMA
-http://183.88.212.205:8010/play/a01x
-#EXTINF:-1,FX
-http://183.88.212.205:8010/play/a023
-#EXTINF:-1,M-BIZ
-http://183.88.212.205:8010/play/a018
-#EXTINF:-1,EDUCATION CHANNEL
-http://183.88.212.205:8010/play/a03p
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
-#EXTINF:-1,HBO HD
-http://183.88.212.205:8010/play/a00u
-#EXTINF:-1,INTERNATIONAL DRAMA
-http://183.88.212.205:8010/play/a01y
-#EXTINF:-1,DISNEY XD
-http://183.88.212.205:8010/play/a00x
-#EXTINF:-1,SKYNET SPORTS-1
-http://183.88.212.205:8010/play/a02j
-#EXTINF:-1,NAT GEO MUSIC
-http://183.88.212.205:8010/play/a01q
-#EXTINF:-1,MNTV
-http://183.88.212.205:8010/play/a017
-#EXTINF:-1,NHK WORLD PREMIUM
-http://183.88.212.205:8010/play/a027
-#EXTINF:-1,SKYNET SPORTS-2
-http://183.88.212.205:8010/play/a02k
-#EXTINF:-1,ARIRANG
-http://183.88.212.205:8010/play/a026
-#EXTINF:-1,ANIMAL PLANET
-http://183.88.212.205:8010/play/a030
-#EXTINF:-1,HBO
-http://183.88.212.205:8010/play/a00m
-#EXTINF:-1,CH-V
-http://183.88.212.205:8010/play/a01p
-#EXTINF:-1,LIFETIME
-http://183.88.212.205:8010/play/a03l
-#EXTINF:-1,HOME CHANNEL
-http://183.88.212.205:8010/play/a03t
-#EXTINF:-1,AXN
-http://183.88.212.205:8010/play/a00i
-#EXTINF:-1,CINEMAX
-http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,DISNEY JUNIOR ASIA
-http://183.88.212.205:8010/play/a02u
-#EXTINF:-1,KBS WORLD
-http://183.88.212.205:8010/play/a025
-#EXTINF:-1,HEALTH
-http://183.88.212.205:8010/play/a03r
-#EXTINF:-1,SKY NEWS
-http://183.88.212.205:8010/play/a00e
-#EXTINF:-1,AGRICULTURE/FOREST
-http://183.88.212.205:8010/play/a03q
-#EXTINF:-1,STATE&DIVISION HLUTTAW
-http://183.88.212.205:8010/play/a03h
-#EXTINF:-1,FASHION ONE
-http://183.88.212.205:8010/play/a01v
-#EXTINF:-1,BLOOMBERG
-http://183.88.212.205:8010/play/a02d
-#EXTINF:-1,SKYNET SPORTS-4
-http://183.88.212.205:8010/play/a00a
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.88.212.205:8010/play/a00v
-#EXTINF:-1,E!
-http://183.88.212.205:8010/play/a03o
-#EXTINF:-1,FOX CRIME
-http://183.88.212.205:8010/play/a020
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.88.212.205:8010/play/a03n
-#EXTINF:-1,MWD
-http://183.88.212.205:8010/play/a014
-#EXTINF:-1,COMEDY CENTRAL
-http://183.88.212.205:8010/play/a03b
-#EXTINF:-1,FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o
-#EXTINF:-1,EURO SPORTS
-http://183.88.212.205:8010/play/a00d
-#EXTINF:-1,FOX SPORTS NEWS
-http://183.88.212.205:8010/play/a022
-#EXTINF:-1,SKYNET SPORTS HD
-http://183.88.212.205:8010/play/a00r
-#EXTINF:-1,MOTORVISION
-http://183.88.212.205:8010/play/a03j
-#EXTINF:-1,BBC WORLD NEWS
-http://183.88.212.205:8010/play/a03g
-#EXTINF:-1,BBC CBEEBIES
-http://183.88.212.205:8010/play/a03f
-#EXTINF:-1,BBC EARTH
-http://183.88.212.205:8010/play/a03e
-#EXTINF:-1,SKYNET TEEN
-http://183.88.212.205:8010/play/a01u
-#EXTINF:-1,ITV CHOICE
-http://183.88.212.205:8010/play/a038
-#EXTINF:-1,OUTDOOR CHANNEL
-http://183.88.212.205:8010/play/a03d
-#EXTINF:-1,MRTV ENTERTAINTMENT
-http://183.88.212.205:8010/play/a015
-#EXTINF:-1,SKYNET KNOWLEDGE
-http://183.88.212.205:8010/play/a02w
-#EXTINF:-1,FIGHT SPORTS HD
-http://183.88.212.205:8010/play/a00z
-#EXTINF:-1,SKYNET SPORTS-5
-http://183.88.212.205:8010/play/a00b
-#EXTINF:-1,FRANCE 24
-http://183.88.212.205:8010/play/a02h
-#EXTINF:-1,HADAYA
-http://183.88.212.205:8010/play/a01g
-#EXTINF:-1,SKYNET LIVE CHANNEL
-http://183.88.212.205:8010/play/a02r
-#EXTINF:-1,NGC WILD
-http://183.88.212.205:8010/play/a02y
-#EXTINF:-1,RED BY HBO
-http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,UNIVERSAL SD
-http://183.88.212.205:8010/play/a03m
-#EXTINF:-1,MRTV
-http://183.88.212.205:8010/play/a013
-#EXTINF:-1,UP TO DATE
-http://183.88.212.205:8010/play/a03a
-#EXTINF:-1,NICKELODEON
-http://183.88.212.205:8010/play/a01f
-#EXTINF:-1,CI
-http://183.88.212.205:8010/play/a00j
-#EXTINF:-1,BUDDHA
-http://183.88.212.205:8010/play/a012
-#EXTINF:-1,H2
-http://183.88.212.205:8010/play/a03k
-#EXTINF:-1,ZEE CINEMA ME
-http://183.88.212.205:8010/play/a01n
-#EXTINF:-1,HLUTTAW
-http://183.88.212.205:8010/play/a037
-#EXTINF:-1,MTV SEA
-http://183.88.212.205:8010/play/a01t
-#EXTINF:-1,CNAI
-http://183.88.212.205:8010/play/a02f
-#EXTINF:-1,DMAX
-http://183.88.212.205:8010/play/a035
-#EXTINF:-1,DISNEY CHANNEL ASIA
-http://183.88.212.205:8010/play/a02t
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034
-#EXTINF:-1,HISTORY HD
-http://183.88.212.205:8010/play/a00y
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,SKYNET-HD-PAY PER VIEW
-http://183.88.212.205:8010/play/a00w
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://183.88.212.205:8010/play/a01l
-#EXTINF:-1,DISCOVERY
-http://183.88.212.205:8010/play/a031
-#EXTINF:-1,EVE
-http://183.88.212.205:8010/play/a033
-#EXTINF:-1,NGC
-http://183.88.212.205:8010/play/a02x
-#EXTINF:-1,EURO SPORTS NEWS
-http://183.88.212.205:8010/play/a00g
-#EXTINF:-1,SKYNET SPORTS-6
-http://183.88.212.205:8010/play/a00c
-#EXTINF:-1,SKYNET MUSIC
-http://183.88.212.205:8010/play/a01o
-#EXTINF:-1,TINE-YIN-THAR
-http://183.88.212.205:8010/play/a03s
-#EXTINF:-1,MONEY CHANNEL
-http://183.88.212.205:8010/play/a02s
-#EXTINF:-1,GOLF
-http://183.88.212.205:8010/play/a02q
-#EXTINF:-1,ASN
-http://183.88.212.205:8010/play/a02p
-#EXTINF:-1,CHANNEL 9
-http://183.88.212.205:8010/play/a01a
-#EXTINF:-1,SKYNET CARTOON
-http://183.88.212.205:8010/play/a01d
-#EXTINF:-1,FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n
-#EXTINF:-1,DWTV
-http://183.88.212.205:8010/play/a02g
-#EXTINF:-1,SKYNET SPORTS-3
-http://183.88.212.205:8010/play/a02l
-#EXTINF:-1,PHOENIX INFO NEWS
-http://183.88.212.205:8010/play/a02i
-#EXTINF:-1,ANIMAX
-http://183.88.212.205:8010/play/a00h
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010
-#EXTINF:-1,CHANNEL ONE
-http://183.88.212.205:8010/play/a019
-#EXTINF:-1,FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m
-#EXTINF:-1,STAR WORLD
-http://183.88.212.205:8010/play/a021
-#EXTINF:-1,CCTV 4
-http://183.88.212.205:8010/play/a02a
-#EXTINF:-1,CCTV 9
-http://183.88.212.205:8010/play/a02b
-#EXTINF:-1,CCTV NEWS
-http://183.88.212.205:8010/play/a029
-#EXTINF:-1,MTV CHINA
-http://183.88.212.205:8010/play/a01s
-#EXTINF:-1,MTV LIVE HD
-http://183.88.212.205:8010/play/a00s
-#EXTINF:-1,BABY TV
-http://183.88.212.205:8010/play/a01e
-#EXTINF:-1,NHK WORLD TV
-http://183.88.212.205:8010/play/a028
-#EXTINF:-1,DISCOVERY KIDS
-http://183.88.212.205:8010/play/a036
-#EXTINF:-1,M
-http://183.88.212.205:8010/play/a024
-#EXTINF:-1,ZEE TV
-http://183.88.212.205:8010/play/a01z
-#EXTINF:-1,SHOPPING CHANNEL
-http://183.88.212.205:8010/play/a00p
-#EXTINF:-1,MYANMAR ARTS
-http://183.88.212.205:8010/play/a01i
-#EXTINF:-1,CNBC
-http://183.88.212.205:8010/play/a02c
-#EXTINF:-1,GLOBALNET
-http://183.88.212.205:8010/play/a039
-#EXTINF:-1,FOX NEWS
-http://183.88.212.205:8010/play/a00f
-#EXTINF:-1,ZING
-http://183.88.212.205:8010/play/a01r
-#EXTINF:-1,DISCOVERY TLC
-http://183.88.212.205:8010/play/a032
-#EXTINF:-1,WORLD MOVIES
-http://183.88.212.205:8010/play/a01k
-#EXTINF:-1,CNN
-http://183.88.212.205:8010/play/a00l
-#EXTINF:-1,NICKJR
-http://183.88.212.205:8010/play/a01c
-#EXTINF:-1,MYANMAR MOVIES
-http://183.88.212.205:8010/play/a01h
 
