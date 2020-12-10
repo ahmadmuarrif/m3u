@@ -141,8 +141,6 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 group-title="LUAR", FIJI TV
 https://api.new.livestream.com/accounts/19514369/events/fijiTVstream/live.m3u8
 
-###############
-
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Telemundo
 http://192.168.0.37:50960/channels/4952.m3u8
